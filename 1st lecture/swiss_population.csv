@@ -1,0 +1,406 @@
+canton,year,population
+Aargau,1850,199852.0
+Aargau,1860,194208.0
+Aargau,1888,193580.0
+Aargau,1900,206498.0
+Aargau,1910,230634.0
+Aargau,1920,240776.0
+Aargau,1930,259644.0
+Aargau,1941,270463.0
+Aargau,1950,300782.0
+Aargau,1960,360940.0
+Aargau,1970,433284.0
+Aargau,1980,453442.0
+Aargau,1990,507508.0
+Aargau,2000,547493.0
+Aargau,2010,611466.0
+Aargau,2015,653675.0
+Appenzell Ausserrhoden,1850,43621.0
+Appenzell Ausserrhoden,1860,48431.0
+Appenzell Ausserrhoden,1888,54109.0
+Appenzell Ausserrhoden,1900,55281.0
+Appenzell Ausserrhoden,1910,57973.0
+Appenzell Ausserrhoden,1920,55354.0
+Appenzell Ausserrhoden,1930,48977.0
+Appenzell Ausserrhoden,1941,44756.0
+Appenzell Ausserrhoden,1950,47938.0
+Appenzell Ausserrhoden,1960,48920.0
+Appenzell Ausserrhoden,1970,49023.0
+Appenzell Ausserrhoden,1980,47611.0
+Appenzell Ausserrhoden,1990,52229.0
+Appenzell Ausserrhoden,2000,53504.0
+Appenzell Ausserrhoden,2010,53017.0
+Appenzell Ausserrhoden,2015,54543.0
+Appenzell Innerrhoden,1850,11272.0
+Appenzell Innerrhoden,1860,11999.0
+Appenzell Innerrhoden,1888,12888.0
+Appenzell Innerrhoden,1900,13499.0
+Appenzell Innerrhoden,1910,14659.0
+Appenzell Innerrhoden,1920,14614.0
+Appenzell Innerrhoden,1930,13988.0
+Appenzell Innerrhoden,1941,13383.0
+Appenzell Innerrhoden,1950,13427.0
+Appenzell Innerrhoden,1960,12943.0
+Appenzell Innerrhoden,1970,13124.0
+Appenzell Innerrhoden,1980,12844.0
+Appenzell Innerrhoden,1990,13870.0
+Appenzell Innerrhoden,2000,14618.0
+Appenzell Innerrhoden,2010,15688.0
+Appenzell Innerrhoden,2015,15974.0
+Basel-Landschaft,1850,47885.0
+Basel-Landschaft,1860,51582.0
+Basel-Landschaft,1888,61941.0
+Basel-Landschaft,1900,68497.0
+Basel-Landschaft,1910,76488.0
+Basel-Landschaft,1920,82390.0
+Basel-Landschaft,1930,92541.0
+Basel-Landschaft,1941,94459.0
+Basel-Landschaft,1950,107549.0
+Basel-Landschaft,1960,148282.0
+Basel-Landschaft,1970,204889.0
+Basel-Landschaft,1980,219822.0
+Basel-Landschaft,1990,233488.0
+Basel-Landschaft,2000,259374.0
+Basel-Landschaft,2010,274404.0
+Basel-Landschaft,2015,283231.0
+Basel-Stadt,1850,29698.0
+Basel-Stadt,1860,40683.0
+Basel-Stadt,1888,73749.0
+Basel-Stadt,1900,112227.0
+Basel-Stadt,1910,135918.0
+Basel-Stadt,1920,140708.0
+Basel-Stadt,1930,155030.0
+Basel-Stadt,1941,169961.0
+Basel-Stadt,1950,196498.0
+Basel-Stadt,1960,225588.0
+Basel-Stadt,1970,234945.0
+Basel-Stadt,1980,203915.0
+Basel-Stadt,1990,199411.0
+Basel-Stadt,2000,188079.0
+Basel-Stadt,2010,184950.0
+Basel-Stadt,2015,191817.0
+Bern / Berne,1850,458302.0
+Bern / Berne,1860,467141.0
+Bern / Berne,1888,536679.0
+Bern / Berne,1900,589433.0
+Bern / Berne,1910,645877.0
+Bern / Berne,1920,674394.0
+Bern / Berne,1930,688774.0
+Bern / Berne,1941,728916.0
+Bern / Berne,1950,801943.0
+Bern / Berne,1960,889523.0
+Bern / Berne,1970,983296.0
+Bern / Berne,1980,912022.0
+Bern / Berne,1990,958192.0
+Bern / Berne,2000,957197.0
+Bern / Berne,2010,979802.0
+Bern / Berne,2015,1017483.0
+Fribourg / Freiburg,1850,99891.0
+Fribourg / Freiburg,1860,105523.0
+Fribourg / Freiburg,1888,119155.0
+Fribourg / Freiburg,1900,127951.0
+Fribourg / Freiburg,1910,139654.0
+Fribourg / Freiburg,1920,143055.0
+Fribourg / Freiburg,1930,143230.0
+Fribourg / Freiburg,1941,152053.0
+Fribourg / Freiburg,1950,158695.0
+Fribourg / Freiburg,1960,159194.0
+Fribourg / Freiburg,1970,180309.0
+Fribourg / Freiburg,1980,185246.0
+Fribourg / Freiburg,1990,213571.0
+Fribourg / Freiburg,2000,241706.0
+Fribourg / Freiburg,2010,278493.0
+Fribourg / Freiburg,2015,307461.0
+Genève,1850,64146.0
+Genève,1860,82876.0
+Genève,1888,105509.0
+Genève,1900,132609.0
+Genève,1910,154906.0
+Genève,1920,171000.0
+Genève,1930,171366.0
+Genève,1941,174855.0
+Genève,1950,202918.0
+Genève,1960,259234.0
+Genève,1970,331599.0
+Genève,1980,349040.0
+Genève,1990,379190.0
+Genève,2000,413673.0
+Genève,2010,457715.0
+Genève,2015,484736.0
+Glarus,1850,30213.0
+Glarus,1860,33363.0
+Glarus,1888,33825.0
+Glarus,1900,32349.0
+Glarus,1910,33316.0
+Glarus,1920,33834.0
+Glarus,1930,35653.0
+Glarus,1941,34771.0
+Glarus,1950,37663.0
+Glarus,1960,40148.0
+Glarus,1970,38155.0
+Glarus,1980,36718.0
+Glarus,1990,38508.0
+Glarus,2000,38183.0
+Glarus,2010,38608.0
+Glarus,2015,40028.0
+Graubünden / Grigioni / Grischun,1850,89895.0
+Graubünden / Grigioni / Grischun,1860,90713.0
+Graubünden / Grigioni / Grischun,1888,94810.0
+Graubünden / Grigioni / Grischun,1900,104520.0
+Graubünden / Grigioni / Grischun,1910,117069.0
+Graubünden / Grigioni / Grischun,1920,119854.0
+Graubünden / Grigioni / Grischun,1930,126340.0
+Graubünden / Grigioni / Grischun,1941,128247.0
+Graubünden / Grigioni / Grischun,1950,137100.0
+Graubünden / Grigioni / Grischun,1960,147458.0
+Graubünden / Grigioni / Grischun,1970,162086.0
+Graubünden / Grigioni / Grischun,1980,164641.0
+Graubünden / Grigioni / Grischun,1990,173890.0
+Graubünden / Grigioni / Grischun,2000,187058.0
+Graubünden / Grigioni / Grischun,2010,192621.0
+Graubünden / Grigioni / Grischun,2015,196610.0
+Jura,1980,64986.0
+Jura,1990,66163.0
+Jura,2000,68224.0
+Jura,2010,70032.0
+Jura,2015,72782.0
+Luzern,1850,132843.0
+Luzern,1860,130504.0
+Luzern,1888,135360.0
+Luzern,1900,146519.0
+Luzern,1910,167223.0
+Luzern,1920,177073.0
+Luzern,1930,189391.0
+Luzern,1941,206608.0
+Luzern,1950,223249.0
+Luzern,1960,253446.0
+Luzern,1970,289641.0
+Luzern,1980,296159.0
+Luzern,1990,326268.0
+Luzern,2000,350504.0
+Luzern,2010,377610.0
+Luzern,2015,398762.0
+Neuchâtel,1850,70753.0
+Neuchâtel,1860,87369.0
+Neuchâtel,1888,108153.0
+Neuchâtel,1900,126279.0
+Neuchâtel,1910,133061.0
+Neuchâtel,1920,131349.0
+Neuchâtel,1930,124324.0
+Neuchâtel,1941,117900.0
+Neuchâtel,1950,128152.0
+Neuchâtel,1960,147633.0
+Neuchâtel,1970,169173.0
+Neuchâtel,1980,158368.0
+Neuchâtel,1990,163985.0
+Neuchâtel,2000,167949.0
+Neuchâtel,2010,172085.0
+Neuchâtel,2015,178107.0
+Nidwalden,1850,11339.0
+Nidwalden,1860,11526.0
+Nidwalden,1888,12538.0
+Nidwalden,1900,13070.0
+Nidwalden,1910,13788.0
+Nidwalden,1920,13956.0
+Nidwalden,1930,15055.0
+Nidwalden,1941,17348.0
+Nidwalden,1950,19389.0
+Nidwalden,1960,22188.0
+Nidwalden,1970,25634.0
+Nidwalden,1980,28617.0
+Nidwalden,1990,33044.0
+Nidwalden,2000,37235.0
+Nidwalden,2010,41024.0
+Nidwalden,2015,42420.0
+Obwalden,1850,13799.0
+Obwalden,1860,13376.0
+Obwalden,1888,15043.0
+Obwalden,1900,15260.0
+Obwalden,1910,17161.0
+Obwalden,1920,17567.0
+Obwalden,1930,19401.0
+Obwalden,1941,20340.0
+Obwalden,1950,22125.0
+Obwalden,1960,23135.0
+Obwalden,1970,24509.0
+Obwalden,1980,25865.0
+Obwalden,1990,29025.0
+Obwalden,2000,32427.0
+Obwalden,2010,35585.0
+Obwalden,2015,37076.0
+Schaffhausen,1850,35300.0
+Schaffhausen,1860,35500.0
+Schaffhausen,1888,37783.0
+Schaffhausen,1900,41514.0
+Schaffhausen,1910,46097.0
+Schaffhausen,1920,50428.0
+Schaffhausen,1930,51187.0
+Schaffhausen,1941,53772.0
+Schaffhausen,1950,57515.0
+Schaffhausen,1960,65981.0
+Schaffhausen,1970,72854.0
+Schaffhausen,1980,69413.0
+Schaffhausen,1990,72160.0
+Schaffhausen,2000,73392.0
+Schaffhausen,2010,76356.0
+Schaffhausen,2015,79836.0
+Schwyz,1850,44168.0
+Schwyz,1860,45039.0
+Schwyz,1888,50307.0
+Schwyz,1900,55385.0
+Schwyz,1910,58428.0
+Schwyz,1920,59731.0
+Schwyz,1930,62337.0
+Schwyz,1941,66555.0
+Schwyz,1950,71082.0
+Schwyz,1960,78048.0
+Schwyz,1970,92072.0
+Schwyz,1980,97354.0
+Schwyz,1990,111964.0
+Schwyz,2000,128704.0
+Schwyz,2010,146730.0
+Schwyz,2015,154093.0
+Solothurn,1850,69674.0
+Solothurn,1860,69263.0
+Solothurn,1888,85621.0
+Solothurn,1900,100762.0
+Solothurn,1910,117040.0
+Solothurn,1920,130617.0
+Solothurn,1930,144198.0
+Solothurn,1941,154944.0
+Solothurn,1950,170508.0
+Solothurn,1960,200816.0
+Solothurn,1970,224133.0
+Solothurn,1980,218102.0
+Solothurn,1990,231746.0
+Solothurn,2000,244341.0
+Solothurn,2010,255284.0
+Solothurn,2015,266418.0
+St. Gallen,1850,169625.0
+St. Gallen,1860,180411.0
+St. Gallen,1888,228174.0
+St. Gallen,1900,250285.0
+St. Gallen,1910,302896.0
+St. Gallen,1920,295543.0
+St. Gallen,1930,286362.0
+St. Gallen,1941,286201.0
+St. Gallen,1950,309106.0
+St. Gallen,1960,339489.0
+St. Gallen,1970,384475.0
+St. Gallen,1980,391995.0
+St. Gallen,1990,427501.0
+St. Gallen,2000,452837.0
+St. Gallen,2010,478907.0
+St. Gallen,2015,499065.0
+Thurgau,1850,88899.0
+Thurgau,1860,90081.0
+Thurgau,1888,104678.0
+Thurgau,1900,113221.0
+Thurgau,1910,134917.0
+Thurgau,1920,135933.0
+Thurgau,1930,136063.0
+Thurgau,1941,138122.0
+Thurgau,1950,149738.0
+Thurgau,1960,166420.0
+Thurgau,1970,182835.0
+Thurgau,1980,183795.0
+Thurgau,1990,209362.0
+Thurgau,2000,228875.0
+Thurgau,2010,248444.0
+Thurgau,2015,267429.0
+Ticino,1850,117759.0
+Ticino,1860,116343.0
+Ticino,1888,126751.0
+Ticino,1900,138638.0
+Ticino,1910,156166.0
+Ticino,1920,152256.0
+Ticino,1930,159223.0
+Ticino,1941,161882.0
+Ticino,1950,175055.0
+Ticino,1960,195566.0
+Ticino,1970,245458.0
+Ticino,1980,265899.0
+Ticino,1990,282181.0
+Ticino,2000,306846.0
+Ticino,2010,333753.0
+Ticino,2015,351946.0
+Uri,1850,14505.0
+Uri,1860,14741.0
+Uri,1888,17249.0
+Uri,1900,19700.0
+Uri,1910,22113.0
+Uri,1920,23973.0
+Uri,1930,22968.0
+Uri,1941,27302.0
+Uri,1950,28556.0
+Uri,1960,32021.0
+Uri,1970,34091.0
+Uri,1980,33883.0
+Uri,1990,34208.0
+Uri,2000,34777.0
+Uri,2010,35422.0
+Uri,2015,35973.0
+Valais / Wallis,1850,81559.0
+Valais / Wallis,1860,90792.0
+Valais / Wallis,1888,101985.0
+Valais / Wallis,1900,114438.0
+Valais / Wallis,1910,128381.0
+Valais / Wallis,1920,128246.0
+Valais / Wallis,1930,136394.0
+Valais / Wallis,1941,148319.0
+Valais / Wallis,1950,159178.0
+Valais / Wallis,1960,177783.0
+Valais / Wallis,1970,206563.0
+Valais / Wallis,1980,218707.0
+Valais / Wallis,1990,249817.0
+Valais / Wallis,2000,272399.0
+Valais / Wallis,2010,312684.0
+Valais / Wallis,2015,335696.0
+Vaud,1850,199575.0
+Vaud,1860,213157.0
+Vaud,1888,247655.0
+Vaud,1900,281379.0
+Vaud,1910,317457.0
+Vaud,1920,317498.0
+Vaud,1930,331853.0
+Vaud,1941,343398.0
+Vaud,1950,377585.0
+Vaud,1960,429512.0
+Vaud,1970,511851.0
+Vaud,1980,528747.0
+Vaud,1990,601816.0
+Vaud,2000,640657.0
+Vaud,2010,713281.0
+Vaud,2015,773407.0
+Zug,1850,17461.0
+Zug,1860,19608.0
+Zug,1888,23029.0
+Zug,1900,25093.0
+Zug,1910,28156.0
+Zug,1920,31569.0
+Zug,1930,34395.0
+Zug,1941,36643.0
+Zug,1950,42239.0
+Zug,1960,52489.0
+Zug,1970,67996.0
+Zug,1980,75930.0
+Zug,1990,85546.0
+Zug,2000,100052.0
+Zug,2010,113105.0
+Zug,2015,122134.0
+Zürich,1850,250698.0
+Zürich,1860,266265.0
+Zürich,1888,337183.0
+Zürich,1900,431036.0
+Zürich,1910,503915.0
+Zürich,1920,538602.0
+Zürich,1930,617706.0
+Zürich,1941,674505.0
+Zürich,1950,777002.0
+Zürich,1960,952304.0
+Zürich,1970,1107788.0
+Zürich,1980,1122839.0
+Zürich,1990,1179044.0
+Zürich,2000,1247906.0
+Zürich,2010,1373068.0
+Zürich,2015,1466424.0
