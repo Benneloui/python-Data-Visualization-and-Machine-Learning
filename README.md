@@ -1,6 +1,10 @@
 # python-Data-Visualization-and-Machine-Learning
 python-Data-Visualization-and-Machine-Learning-HS25/26-Bern
 
+# Enviroment & dependeces
+
+mamba install matplotlib dash
+
 mamba env export > environment.yml
 
 
